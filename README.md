@@ -38,16 +38,6 @@ Para executar este projeto localmente, siga estas etapas:
 
 6. **Acesse o aplicativo**: Abra seu navegador e vá para `http://localhost/corredores/`.
 
-## 🎨 Capturas de Tela
-
-![Screenshot 1](https://imgur.com/a/EkC0qMt)  
-*Exemplo de página de Login*
-
-![Screenshot 2](https://imgur.com/a/wmYjxY2)  
-*Exemplo de página da lista de corredores*
-
-![Screenshot 3]((https://imgur.com/a/Oi42FP8))  
-*Exemplo de página de edição da lista de corredores*
 
 ## 📝 Licença
 
